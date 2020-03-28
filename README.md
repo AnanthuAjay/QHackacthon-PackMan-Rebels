@@ -1,4 +1,4 @@
 # QHackacthon-PackMan-Rebels
 
 ## WasteIT Management System
-Our prototype has been attached in a docx file 
+Our prototype for our proposal has been attached in a docx file 
